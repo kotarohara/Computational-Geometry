@@ -1,3 +1,6 @@
+/* Written by Kotaro Hara on Mar 21st 2012
+ * Graham's scan
+ */
 main();
 
 function main() {
